@@ -1,0 +1,16 @@
+.fileWrapper {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.fileWrapper span {
+    margin-right: 10px;
+}
+
+.deleteBtn {
+    cursor: pointer;
+    margin: 0 5px;
+    font-size: small;
+}
